@@ -16,7 +16,16 @@ function GetAllGames() {
 }
 
 function getScorersFromDiv(a) {
-	return a.innerText.split('\n').map(a => a.trim()).filter(a => a).map(a => a.split('·')).map(a => [a[0].trim(), parseInt(a[1].replace('’', ''))])
+	let result = []
+	for(let child of a.children) {
+		if(child.getElementsByClassName('event_icon red_card').length > 0) {
+			continue;
+		}
+		let temp = child.innerText.split('·')
+
+		result.push([temp[0].trim(), temp[1]])
+	}
+	return result
 }
  
 function getScorers(document) {
