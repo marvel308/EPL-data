@@ -10,16 +10,16 @@ Liverpool,Alisson,GK,26
 Liverpool,Jordan Henderson,MF,29
 Liverpool,Fabinho,MF,25
 Liverpool,Joe Gomez,DF,22
-Liverpool,Alex Oxlade-Chamberlain,MF,FW,25
-Liverpool,James Milner,MF,DF,33
+Liverpool,Alex Oxlade-Chamberlain,MF FW,25
+Liverpool,James Milner,MF DF,33
 Liverpool,Adrián,GK,32
 Liverpool,Naby Keïta,MF,24
 Liverpool,Dejan Lovren,DF,30
 Liverpool,Joël Matip,DF,27
 Liverpool,Divock Origi,FW,24
-Liverpool,Adam Lallana,MF,FW,31
+Liverpool,Adam Lallana,MF FW,31
 Liverpool,Neco Williams,DF,18
-Liverpool,Takumi Minamino,FW,MF,24
+Liverpool,Takumi Minamino,FW MF,24
 Liverpool,Xherdan Shaqiri,FW,27
 Liverpool,Curtis Jones,MF,18
 Liverpool,Harvey Elliot,DF,16
@@ -34,7 +34,7 @@ Manchester City,Raheem Sterling,FW,24
 Manchester City,Rodri,MF,23
 Manchester City,Kyle Walker,DF,29
 Manchester City,Fernandinho,DF,34
-Manchester City,Bernardo Silva,FW,MF,24
+Manchester City,Bernardo Silva,FW MF,24
 Manchester City,David Silva,MF,33
 Manchester City,Gabriel Jesus,FW,22
 Manchester City,İlkay Gündoğan,MF,28
@@ -46,11 +46,11 @@ Manchester City,Aymeric Laporte,DF,25
 Manchester City,Oleksandr Zinchenko,DF,22
 Manchester City,João Cancelo,DF,25
 Manchester City,John Stones,DF,25
-Manchester City,Phil Foden,FW,MF,19
+Manchester City,Phil Foden,FW MF,19
 Manchester City,Eric García,DF,18
 Manchester City,Angeliño,DF,22
 Manchester City,Claudio Bravo,GK,36
-Manchester City,Thomas Doyle,MF,FW,17
+Manchester City,Thomas Doyle,MF FW,17
 Manchester City,Leroy Sané,FW,23
 Manchester City,Scott Carson,GK,33
 Manchester City,Taylor Harwood-Bellis,DF,17
@@ -66,14 +66,14 @@ Manchester Utd,Fred,MF,26
 Manchester Utd,Scott McTominay,MF,22
 Manchester Utd,Luke Shaw,DF,24
 Manchester Utd,Nemanja Matić,MF,30
-Manchester Utd,Andreas Pereira,MF,FW,23
+Manchester Utd,Andreas Pereira,MF FW,23
 Manchester Utd,Bruno Fernandes,MF,24
 Manchester Utd,Paul Pogba,MF,26
 Manchester Utd,Mason Greenwood,FW,17
 Manchester Utd,Brandon Williams,DF,18
 Manchester Utd,Ashley Young,DF,34
-Manchester Utd,Jesse Lingard,MF,FW,26
-Manchester Utd,Juan Mata,MF,FW,31
+Manchester Utd,Jesse Lingard,MF FW,26
+Manchester Utd,Juan Mata,MF FW,31
 Manchester Utd,Axel Tuanzebe,DF,21
 Manchester Utd,Timothy Fosu-Mensah,DF,21
 Manchester Utd,Phil Jones,DF,27
@@ -81,14 +81,14 @@ Manchester Utd,Eric Bailly,DF,25
 Manchester Utd,Marcos Rojo,DF,29
 Manchester Utd,Diogo Dalot,DF,20
 Manchester Utd,Odion Ighalo,FW,30
-Manchester Utd,Tahith Chong,FW,MF,19
+Manchester Utd,Tahith Chong,FW MF,19
 Manchester Utd,Angel Gomes,MF,18
 Manchester Utd,James Garner,MF,18
 Manchester Utd,Lee Grant,GK,36
 Manchester Utd,Sergio Romero,GK,32
 Chelsea,César Azpilicueta,DF,29
 Chelsea,Kepa Arrizabalaga,GK,24
-Chelsea,Mason Mount,MF,FW,20
+Chelsea,Mason Mount,MF FW,20
 Chelsea,Willian,FW,30
 Chelsea,Jorginho,MF,27
 Chelsea,Kurt Zouma,DF,24
@@ -107,7 +107,7 @@ Chelsea,Olivier Giroud,FW,32
 Chelsea,Pedro,FW,32
 Chelsea,Callum Hudson-Odoi,FW,18
 Chelsea,Willy Caballero,GK,37
-Chelsea,Ruben Loftus-Cheek,MF,FW,23
+Chelsea,Ruben Loftus-Cheek,MF FW,23
 Chelsea,Billy Gilmour,MF,18
 Chelsea,Michy Batshuayi,FW,25
 Chelsea,Tariq Lamptey,DF,18
@@ -115,7 +115,7 @@ Chelsea,Faustino Anjorin,FW,17
 Chelsea,Armando Broja,FW,17
 Chelsea,Lewis Bate,MF,16
 Chelsea,Marc Guéhi,DF,19
-Chelsea,Kenedy,FW,MF,23
+Chelsea,Kenedy,FW MF,23
 Leicester City,Kasper Schmeichel,GK,32
 Leicester City,Jonny Evans,DF,31
 Leicester City,Çağlar Söyüncü,DF,23
@@ -125,17 +125,17 @@ Leicester City,Wilfred Ndidi,MF,22
 Leicester City,James Maddison,MF,22
 Leicester City,Ricardo Pereira,DF,25
 Leicester City,Ben Chilwell,DF,22
-Leicester City,Ayoze Pérez,MF,FW,26
-Leicester City,Harvey Barnes,MF,FW,21
+Leicester City,Ayoze Pérez,MF FW,26
+Leicester City,Harvey Barnes,MF FW,21
 Leicester City,Dennis Praet,MF,25
 Leicester City,Kelechi Iheanacho,FW,22
 Leicester City,James Justin,DF,21
 Leicester City,Hamza Choudhury,MF,21
-Leicester City,Marc Albrighton,MF,DF,29
+Leicester City,Marc Albrighton,MF DF,29
 Leicester City,Christian Fuchs,DF,33
 Leicester City,Wes Morgan,DF,35
 Leicester City,Nampalys Mendy,MF,27
-Leicester City,Demarai Gray,MF,FW,23
+Leicester City,Demarai Gray,MF FW,23
 Leicester City,Ryan Bennett,DF,29
 Leicester City,Luke Thomas,DF,
 Leicester City,George Hirst,FW,20
@@ -146,29 +146,29 @@ Leicester City,Danny Ward,GK,26
 Tottenham,Toby Alderweireld,DF,30
 Tottenham,Serge Aurier,DF,26
 Tottenham,Harry Kane,FW,26
-Tottenham,Son Heung-min,FW,MF,27
+Tottenham,Son Heung-min,FW MF,27
 Tottenham,Moussa Sissoko,MF,29
 Tottenham,Davinson Sánchez,DF,23
 Tottenham,Harry Winks,MF,23
-Tottenham,Lucas Moura,FW,MF,26
-Tottenham,Dele Alli,MF,FW,23
+Tottenham,Lucas Moura,FW MF,26
+Tottenham,Dele Alli,MF FW,23
 Tottenham,Hugo Lloris,GK,32
 Tottenham,Jan Vertonghen,DF,32
 Tottenham,Paulo Gazzaniga,GK,27
 Tottenham,Ben Davies,DF,26
-Tottenham,Giovani Lo Celso,MF,FW,23
-Tottenham,Eric Dier,DF,MF,25
-Tottenham,Érik Lamela,MF,FW,27
+Tottenham,Giovani Lo Celso,MF FW,23
+Tottenham,Eric Dier,DF MF,25
+Tottenham,Érik Lamela,MF FW,27
 Tottenham,Tanguy Ndombele,MF,22
-Tottenham,Christian Eriksen,MF,FW,27
+Tottenham,Christian Eriksen,MF FW,27
 Tottenham,Danny Rose,DF,29
-Tottenham,Steven Bergwijn,FW,MF,21
+Tottenham,Steven Bergwijn,FW MF,21
 Tottenham,Japhet Tanganga,DF,20
 Tottenham,Ryan Sessegnon,DF,19
 Tottenham,Kyle Walker-Peters,DF,22
-Tottenham,Oliver Skipp,MF,DF,18
+Tottenham,Oliver Skipp,MF DF,18
 Tottenham,Juan Foyth,DF,21
-Tottenham,Gedson Fernandes,MF,DF,20
+Tottenham,Gedson Fernandes,MF DF,20
 Tottenham,Victor Wanyama,MF,28
 Tottenham,Troy Parrott,MF,17
 Tottenham,Georges-Kévin N'Koudou,FW,24
@@ -184,22 +184,22 @@ Wolves,Rúben Neves,MF,22
 Wolves,João Moutinho,MF,32
 Wolves,Jonny Castro,DF,25
 Wolves,Matt Doherty,DF,27
-Wolves,Leander Dendoncker,MF,DF,24
+Wolves,Leander Dendoncker,MF DF,24
 Wolves,Romain Saïss,DF,29
-Wolves,Adama Traoré,FW,MF,23
-Wolves,Diogo Jota,FW,MF,22
+Wolves,Adama Traoré,FW MF,23
+Wolves,Diogo Jota,FW MF,22
 Wolves,Willy Boly,DF,28
-Wolves,Pedro Neto,FW,MF,19
+Wolves,Pedro Neto,FW MF,19
 Wolves,Ryan Bennett,DF,29
 Wolves,Rúben Vinagre,DF,20
 Wolves,Patrick Cutrone,FW,21
-Wolves,Daniel Podence,FW,MF,23
+Wolves,Daniel Podence,FW MF,23
 Wolves,Max Kilman,DF,22
 Wolves,Jesús Vallejo,DF,22
-Wolves,Morgan Gibbs-White,MF,FW,19
+Wolves,Morgan Gibbs-White,MF FW,19
 Wolves,Bruno Jordão,FW,20
 Wolves,Bernard Ashley-Seal,FW,20
-Wolves,Oskar Buur,DF,MF,21
+Wolves,Oskar Buur,DF MF,21
 Wolves,Leonardo Campana,FW,19
 Wolves,Luke Cundle,MF,
 Wolves,Ryan John Giles,MF,19
@@ -212,7 +212,7 @@ Arsenal,Bernd Leno,GK,27
 Arsenal,Granit Xhaka,MF,26
 Arsenal,Nicolas Pépé,FW,24
 Arsenal,Alexandre Lacazette,FW,28
-Arsenal,Bukayo Saka,DF,FW,17
+Arsenal,Bukayo Saka,DF FW,17
 Arsenal,Mattéo Guendouzi,MF,20
 Arsenal,Sead Kolašinac,DF,26
 Arsenal,Sokratis Papastathopoulos,DF,31
@@ -224,7 +224,7 @@ Arsenal,Shkodran Mustafi,DF,27
 Arsenal,Héctor Bellerín,DF,24
 Arsenal,Calum Chambers,DF,24
 Arsenal,Kieran Tierney,DF,22
-Arsenal,Joe Willock,MF,FW,19
+Arsenal,Joe Willock,MF FW,19
 Arsenal,Emiliano Martínez,GK,26
 Arsenal,Eddie Nketiah,FW,20
 Arsenal,Reiss Nelson,FW,19
@@ -255,14 +255,14 @@ Sheffield Utd,Sander Berge,MF,21
 Sheffield Utd,Lys Mousset,FW,23
 Sheffield Utd,Billy Sharp,FW,33
 Sheffield Utd,Callum Robinson,FW,24
-Sheffield Utd,Ben Osborn,MF,DF,24
+Sheffield Utd,Ben Osborn,MF DF,24
 Sheffield Utd,Jack Robinson,DF,25
 Sheffield Utd,Luke Freeman,MF,27
 Sheffield Utd,Muhamed Bešić,MF,26
 Sheffield Utd,Phil Jagielka,DF,36
 Sheffield Utd,Simon Moore,GK,29
 Sheffield Utd,Richairo Živković,FW,22
-Sheffield Utd,Leon Clarke,FW,MF,34
+Sheffield Utd,Leon Clarke,FW MF,34
 Sheffield Utd,Jack Rodwell,MF,28
 Sheffield Utd,Ravel Morrison,MF,26
 Sheffield Utd,Kieron Freeman,FW,27
@@ -280,7 +280,7 @@ Burnley,Chris Wood,FW,27
 Burnley,Charlie Taylor,DF,25
 Burnley,Jeff Hendrick,MF,27
 Burnley,Phil Bardsley,DF,34
-Burnley,Erik Pieters,DF,MF,30
+Burnley,Erik Pieters,DF MF,30
 Burnley,Jay Rodriguez,FW,30
 Burnley,Matthew Lowton,DF,30
 Burnley,Ashley Barnes,FW,29
@@ -303,10 +303,10 @@ Burnley,Ali Koiki,DF,18
 Burnley,Joel Mumbongo,FW,20
 Burnley,Bailey Peacock-Farrell,GK,22
 Burnley,Bobby Thomas,DF,
-Southampton,James Ward-Prowse,MF,DF,24
+Southampton,James Ward-Prowse,MF DF,24
 Southampton,Jan Bednarek,DF,23
 Southampton,Danny Ings,FW,27
-Southampton,Nathan Redmond,MF,FW,25
+Southampton,Nathan Redmond,MF FW,25
 Southampton,Ryan Bertrand,DF,29
 Southampton,Pierre Højbjerg,MF,23
 Southampton,Alex McCarthy,GK,29
@@ -317,10 +317,10 @@ Southampton,Jannik Vestergaard,DF,26
 Southampton,Cédric Soares,DF,27
 Southampton,Shane Long,FW,32
 Southampton,Che Adams,FW,23
-Southampton,Moussa Djenepo,MF,DF,21
+Southampton,Moussa Djenepo,MF DF,21
 Southampton,Angus Gunn,GK,23
 Southampton,Yan Valery,DF,20
-Southampton,Sofiane Boufal,MF,FW,25
+Southampton,Sofiane Boufal,MF FW,25
 Southampton,Michael Obafemi,FW,19
 Southampton,Kyle Walker-Peters,DF,22
 Southampton,Maya Yoshida,DF,30
@@ -344,15 +344,15 @@ Everton,Yerry Mina,DF,24
 Everton,Mason Holgate,DF,22
 Everton,Tom Davies,MF,21
 Everton,Séamus Coleman,DF,30
-Everton,Alex Iwobi,MF,FW,23
+Everton,Alex Iwobi,MF FW,23
 Everton,Djibril Sidibé,DF,27
 Everton,André Gomes,MF,26
-Everton,Theo Walcott,MF,FW,30
-Everton,Bernard,MF,FW,26
+Everton,Theo Walcott,MF FW,30
+Everton,Bernard,MF FW,26
 Everton,Fabian Delph,MF,29
 Everton,Morgan Schneiderlin,MF,29
 Everton,Moise Kean,FW,19
-Everton,Anthony Gordon,MF,FW,18
+Everton,Anthony Gordon,MF FW,18
 Everton,Leighton Baines,DF,34
 Everton,Jarrad Branthwaite,DF,17
 Everton,Cenk Tosun,FW,28
@@ -361,23 +361,23 @@ Everton,Oumar Niasse,FW,29
 Everton,Beni Baningime,MF,20
 Everton,Lewis Gibson,DF,19
 Everton,Jonas Lössl,GK,30
-Everton,Cuco Martina,DF,MF,29
+Everton,Cuco Martina,DF MF,29
 Everton,Ellis Simms,FW,18
 Everton,Maarten Stekelenburg,GK,36
 Everton,João Virgínia,GK,19
 Newcastle Utd,Martin Dúbravka,GK,30
-Newcastle Utd,Miguel Almirón,MF,FW,25
+Newcastle Utd,Miguel Almirón,MF FW,25
 Newcastle Utd,Joelinton,FW,22
 Newcastle Utd,Federico Fernández,DF,30
 Newcastle Utd,Isaac Hayden,MF,24
 Newcastle Utd,Jonjo Shelvey,MF,27
 Newcastle Utd,Jamaal Lascelles,DF,25
-Newcastle Utd,Allan Saint-Maximin,MF,FW,22
-Newcastle Utd,Fabian Schär,DF,MF,27
+Newcastle Utd,Allan Saint-Maximin,MF FW,22
+Newcastle Utd,Fabian Schär,DF MF,27
 Newcastle Utd,Javier Manquillo,DF,25
 Newcastle Utd,Jetro Willems,DF,25
 Newcastle Utd,Sean Longstaff,MF,21
-Newcastle Utd,Matt Ritchie,DF,MF,29
+Newcastle Utd,Matt Ritchie,DF MF,29
 Newcastle Utd,Paul Dummett,DF,27
 Newcastle Utd,Ciaran Clark,DF,29
 Newcastle Utd,Emil Krafth,DF,24
@@ -385,12 +385,12 @@ Newcastle Utd,DeAndre Yedlin,DF,26
 Newcastle Utd,Danny Rose,DF,29
 Newcastle Utd,Dwight Gayle,FW,28
 Newcastle Utd,Nabil Bentaleb,MF,24
-Newcastle Utd,Christian Atsu,FW,MF,27
+Newcastle Utd,Christian Atsu,FW MF,27
 Newcastle Utd,Matthew Longstaff,MF,19
 Newcastle Utd,Andy Carroll,FW,30
-Newcastle Utd,Valentino Lazaro,DF,MF,23
+Newcastle Utd,Valentino Lazaro,DF MF,23
 Newcastle Utd,Florian Lejeune,DF,28
-Newcastle Utd,Yoshinori Mutō,FW,MF,27
+Newcastle Utd,Yoshinori Mutō,FW MF,27
 Newcastle Utd,Ki Sung-yueng,MF,30
 Newcastle Utd,Kelland Watts,DF,19
 Newcastle Utd,Thomas Allan,MF,19
@@ -398,11 +398,11 @@ Newcastle Utd,Karl Darlow,GK,28
 Newcastle Utd,Rob Elliot,GK,33
 Newcastle Utd,Liam Gibson,DF,22
 Newcastle Utd,Jack Young,MF,18
-Crystal Palace,Wilfried Zaha,MF,FW,26
-Crystal Palace,Jordan Ayew,FW,MF,27
+Crystal Palace,Wilfried Zaha,MF FW,26
+Crystal Palace,Jordan Ayew,FW MF,27
 Crystal Palace,James McArthur,MF,31
 Crystal Palace,Vicente Guaita,GK,32
-Crystal Palace,Cheikhou Kouyaté,MF,DF,29
+Crystal Palace,Cheikhou Kouyaté,MF DF,29
 Crystal Palace,Patrick van Aanholt,DF,28
 Crystal Palace,Luka Milivojević,MF,28
 Crystal Palace,Joel Ward,DF,29
@@ -413,14 +413,14 @@ Crystal Palace,James McCarthy,MF,28
 Crystal Palace,Andros Townsend,MF,28
 Crystal Palace,Scott Dann,DF,32
 Crystal Palace,Christian Benteke,FW,28
-Crystal Palace,Jeffrey Schlupp,MF,DF,26
+Crystal Palace,Jeffrey Schlupp,MF DF,26
 Crystal Palace,Mamadou Sakho,DF,29
-Crystal Palace,Jaïro Riedewald,DF,MF,22
-Crystal Palace,Max Meyer,MF,FW,23
+Crystal Palace,Jaïro Riedewald,DF MF,22
+Crystal Palace,Max Meyer,MF FW,23
 Crystal Palace,Wayne Hennessey,GK,32
 Crystal Palace,Tyrick Mitchell,DF,19
 Crystal Palace,Cenk Tosun,FW,28
-Crystal Palace,Connor Wickham,FW,MF,26
+Crystal Palace,Connor Wickham,FW MF,26
 Crystal Palace,Brandon Pierrick,MF,17
 Crystal Palace,Víctor Camarasa,MF,25
 Crystal Palace,James Daly,FW,19
@@ -437,26 +437,26 @@ Brighton,Davy Pröpper,MF,27
 Brighton,Adam Webster,DF,24
 Brighton,Neal Maupay,FW,22
 Brighton,Dale Stephens,MF,30
-Brighton,Aaron Mooy,MF,FW,28
+Brighton,Aaron Mooy,MF FW,28
 Brighton,Martín Montoya,DF,28
-Brighton,Leandro Trossard,FW,MF,24
-Brighton,Pascal Groß,FW,MF,28
+Brighton,Leandro Trossard,FW MF,24
+Brighton,Pascal Groß,FW MF,28
 Brighton,Yves Bissouma,MF,22
 Brighton,Aaron Connolly,FW,19
 Brighton,Shane Duffy,DF,27
-Brighton,Steven Alzate,MF,DF,20
-Brighton,Solly March,DF,FW,25
+Brighton,Steven Alzate,MF DF,20
+Brighton,Solly March,DF FW,25
 Brighton,Glenn Murray,FW,35
 Brighton,Bernardo,DF,24
 Brighton,Tariq Lamptey,DF,18
 Brighton,Ezequiel Schelotto,DF,30
-Brighton,Alexis Mac Allister,MF,FW,20
-Brighton,Alireza Jahanbakhsh,FW,MF,25
-Brighton,Jürgen Locadia,MF,FW,25
-Brighton,Florin Andone,MF,FW,26
-Brighton,Gaëtan Bong,MF,DF,31
+Brighton,Alexis Mac Allister,MF FW,20
+Brighton,Alireza Jahanbakhsh,FW MF,25
+Brighton,Jürgen Locadia,MF FW,25
+Brighton,Florin Andone,MF FW,26
+Brighton,Gaëtan Bong,MF DF,31
 Brighton,Leon Balogun,DF,31
-Brighton,Tudor Băluță,DF,MF,20
+Brighton,Tudor Băluță,DF MF,20
 Brighton,David Button,GK,30
 Brighton,Alexander Cochrane,DF,
 West Ham,Declan Rice,MF,20
@@ -467,15 +467,15 @@ West Ham,Aaron Cresswell,DF,29
 West Ham,Ryan Fredericks,DF,26
 West Ham,Łukasz Fabiański,GK,34
 West Ham,Sébastien Haller,FW,25
-West Ham,Pablo Fornals,MF,FW,23
-West Ham,Felipe Anderson,MF,FW,26
+West Ham,Pablo Fornals,MF FW,23
+West Ham,Felipe Anderson,MF FW,26
 West Ham,Michail Antonio,FW,29
-West Ham,Robert Snodgrass,MF,FW,31
-West Ham,Manuel Lanzini,MF,FW,26
+West Ham,Robert Snodgrass,MF FW,31
+West Ham,Manuel Lanzini,MF FW,26
 West Ham,Fabián Balbuena,DF,27
 West Ham,Tomáš Souček,MF,24
 West Ham,Jarrod Bowen,FW,22
-West Ham,Andriy Yarmolenko,MF,FW,29
+West Ham,Andriy Yarmolenko,MF FW,29
 West Ham,Arthur Masuaku,DF,25
 West Ham,Roberto,GK,33
 West Ham,Pablo Zabaleta,DF,34
@@ -484,9 +484,9 @@ West Ham,David Martin,GK,33
 West Ham,Ben Johnson,DF,19
 West Ham,Jack Wilshere,MF,27
 West Ham,Darren Randolph,GK,32
-West Ham,Carlos Sánchez,MF,DF,33
+West Ham,Carlos Sánchez,MF DF,33
 West Ham,Javier Hernández,FW,31
-West Ham,Albian Ajeti,MF,FW,22
+West Ham,Albian Ajeti,MF FW,22
 West Ham,Nathan Holland,MF,21
 West Ham,Joseph Anang,GK,19
 West Ham,Gonçalo Cardoso,DF,18
@@ -495,16 +495,16 @@ West Ham,Bernardo Costa Da Rosa,MF,18
 West Ham,Alfie Lewis,MF,19
 West Ham,Winston Reid,DF,31
 West Ham,Xande Silva,FW,22
-Aston Villa,Jack Grealish,FW,MF,23
+Aston Villa,Jack Grealish,FW MF,23
 Aston Villa,Tyrone Mings,DF,26
 Aston Villa,Douglas Luiz,MF,21
 Aston Villa,John McGinn,MF,24
 Aston Villa,Matt Targett,DF,23
-Aston Villa,Anwar El Ghazi,FW,MF,24
+Aston Villa,Anwar El Ghazi,FW MF,24
 Aston Villa,Ezri Konsa,DF,21
 Aston Villa,Frederic Guilbert,DF,24
 Aston Villa,Wesley Moraes,FW,22
-Aston Villa,Trézéguet,FW,MF,24
+Aston Villa,Trézéguet,FW MF,24
 Aston Villa,Tom Heaton,GK,33
 Aston Villa,Marvelous Nakamba,MF,25
 Aston Villa,Conor Hourihane,MF,28
@@ -516,13 +516,13 @@ Aston Villa,Ahmed Elmohamady,DF,31
 Aston Villa,Mbwana Samatta,FW,26
 Aston Villa,Ørjan Nyland,GK,28
 Aston Villa,Keinan Davis,FW,21
-Aston Villa,Jota,FW,MF,28
+Aston Villa,Jota,FW MF,28
 Aston Villa,Danny Drinkwater,MF,29
 Aston Villa,Henri Lansbury,MF,28
 Aston Villa,Jed Steer,GK,26
-Aston Villa,Jonathan Kodjia,FW,MF,29
-Aston Villa,Indiana Vassilev,FW,MF,18
-Aston Villa,Borja Bastón,MF,FW,26
+Aston Villa,Jonathan Kodjia,FW MF,29
+Aston Villa,Indiana Vassilev,FW MF,18
+Aston Villa,Borja Bastón,MF FW,26
 Aston Villa,James Chester,DF,30
 Aston Villa,Kaine Hayden,MF,
 Aston Villa,Lovre Kalinić,GK,29
@@ -534,17 +534,17 @@ Bournemouth,Nathan Aké,DF,24
 Bournemouth,Steve Cook,DF,28
 Bournemouth,Diego Rico,DF,26
 Bournemouth,Adam Smith,DF,28
-Bournemouth,Joshua King,FW,MF,27
-Bournemouth,Ryan Fraser,MF,FW,25
-Bournemouth,Harry Wilson,MF,FW,22
-Bournemouth,Dominic Solanke,FW,MF,21
+Bournemouth,Joshua King,FW MF,27
+Bournemouth,Ryan Fraser,MF FW,25
+Bournemouth,Harry Wilson,MF FW,22
+Bournemouth,Dominic Solanke,FW MF,21
 Bournemouth,Jack Stacey,DF,23
 Bournemouth,Lewis Cook,MF,22
 Bournemouth,Dan Gosling,MF,29
 Bournemouth,Simon Francis,DF,34
 Bournemouth,Chris Mepham,DF,21
 Bournemouth,David Brooks,MF,22
-Bournemouth,Junior Stanislas,MF,DF,29
+Bournemouth,Junior Stanislas,MF DF,29
 Bournemouth,Lloyd Kelly,DF,20
 Bournemouth,Arnaut Groeneveld,MF,22
 Bournemouth,Andrew Surman,MF,32
@@ -561,62 +561,62 @@ Watford,Ben Foster,GK,36
 Watford,Abdoulaye Doucouré,MF,26
 Watford,Étienne Capoue,MF,31
 Watford,Craig Cathcart,DF,30
-Watford,Will Hughes,MF,FW,24
+Watford,Will Hughes,MF FW,24
 Watford,Craig Dawson,DF,29
 Watford,Christian Kabasele,DF,28
 Watford,Kiko Femenía,DF,28
 Watford,Troy Deeney,FW,31
 Watford,Gerard Deulofeu,FW,25
-Watford,Ismaila Sarr,FW,MF,21
+Watford,Ismaila Sarr,FW MF,21
 Watford,Adam Masina,DF,25
-Watford,Roberto Pereyra,FW,MF,28
+Watford,Roberto Pereyra,FW MF,28
 Watford,Adrian Mariappa,DF,32
 Watford,José Holebas,DF,35
 Watford,Tom Cleverley,MF,29
 Watford,Nathaniel Chalobah,MF,24
-Watford,Danny Welbeck,FW,MF,28
+Watford,Danny Welbeck,FW MF,28
 Watford,Andre Gray,FW,28
 Watford,Daryl Janmaat,DF,30
-Watford,Dimitri Foulquier,MF,DF,26
+Watford,Dimitri Foulquier,MF DF,26
 Watford,Sebastian Prödl,DF,32
-Watford,Ignacio Pussetto,FW,DF,23
-Watford,Isaac Success,FW,MF,23
-Watford,João Pedro,FW,MF,17
+Watford,Ignacio Pussetto,FW DF,23
+Watford,Isaac Success,FW MF,23
+Watford,João Pedro,FW MF,17
 Watford,Domingos Quina,MF,19
 Watford,Tom Dele-Bashiru,MF,19
 Watford,Heurelho Gomes,GK,38
 Watford,Adalberto Peñaranda,FW,22
-Watford,Ken Sema,DF,MF,25
+Watford,Ken Sema,DF MF,25
 Norwich City,Max Aarons,DF,19
 Norwich City,Tim Krul,GK,31
 Norwich City,Teemu Pukki,FW,29
 Norwich City,Kenny McLean,MF,27
 Norwich City,Ben Godfrey,DF,21
-Norwich City,Todd Cantwell,FW,MF,21
-Norwich City,Emi Buendía,FW,MF,22
-Norwich City,Alexander Tettey,MF,DF,33
+Norwich City,Todd Cantwell,FW MF,21
+Norwich City,Emi Buendía,FW MF,22
+Norwich City,Alexander Tettey,MF DF,33
 Norwich City,Jamal Lewis,DF,21
 Norwich City,Christoph Zimmermann,DF,26
 Norwich City,Sam Byram,DF,25
-Norwich City,Onel Hernández,FW,MF,26
+Norwich City,Onel Hernández,FW MF,26
 Norwich City,Grant Hanley,DF,27
 Norwich City,Marco Stiepermann,MF,28
 Norwich City,Tom Trybull,MF,26
 Norwich City,Ondrej Duda,MF,24
-Norwich City,Ibrahim Amadou,DF,MF,26
-Norwich City,Lukas Rupp,FW,MF,28
+Norwich City,Ibrahim Amadou,DF MF,26
+Norwich City,Lukas Rupp,FW MF,28
 Norwich City,Moritz Leitner,MF,26
 Norwich City,Timm Klose,DF,31
 Norwich City,Mario Vrančić,MF,30
-Norwich City,Josip Drmić,FW,MF,26
-Norwich City,Adam Idah,FW,MF,18
+Norwich City,Josip Drmić,FW MF,26
+Norwich City,Adam Idah,FW MF,18
 Norwich City,Michael McGovern,GK,35
 Norwich City,Ralf Fährmann,GK,30
-Norwich City,Dennis Srbeny,MF,FW,25
+Norwich City,Dennis Srbeny,MF FW,25
 Norwich City,Josh Martin,FW,17
-Norwich City,Patrick Roberts,MF,FW,22
+Norwich City,Patrick Roberts,MF FW,22
 Norwich City,Akin Famewo,MF,20
 Norwich City,Jordan Thomas,FW,
 Norwich City,Daniel Adshead,MF,17
-Norwich City,Philip Heise,DF,MF,28
+Norwich City,Philip Heise,DF MF,28
 Norwich City,Archie Mair,GK,18
